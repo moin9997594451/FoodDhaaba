@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803394044110",
+    "firebase_url": "https://food-dhaaba.firebaseio.com",
+    "project_id": "food-dhaaba",
+    "storage_bucket": "food-dhaaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803394044110:android:210aeb7d27f425e7",
+        "android_client_info": {
+          "package_name": "com.complexity.moinkhan.fooddhaaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803394044110-ar4igknasde8250smqhir953nuaeqrve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.complexity.moinkhan.fooddhaaba",
+            "certificate_hash": "e22d636d95de3be1037b9b8f2f6629beb9bb27e3"
+          }
+        },
+        {
+          "client_id": "803394044110-r0saqid0q5fo0i2g6f3bp8237ps9o5pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMWmKJICmntTo6mfzAnAijinKhFPPW-IA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803394044110-r0saqid0q5fo0i2g6f3bp8237ps9o5pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
